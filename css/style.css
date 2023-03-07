@@ -5,12 +5,12 @@
 */
 
 body {
-	 background-color: lightcoral;
+  background-color: lightcoral;
 }
 
 h1 {
-	 background-color: rgb(62 234 199);
-	 color: hsl(0deg 0% 100%);
-	 padding: 40px;
-	 text-align: center;
+  background-color: rgb(62 234 199);
+  color: hsl(0deg 0% 100%);
+  padding: 40px;
+  text-align: center;
 }
